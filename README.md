@@ -1,7 +1,7 @@
-Resumen Ejecutivo del Proyecto
+Resumen Ejecutivo del Proyecto:
 Este proyecto consiste en la creación de un ecosistema de análisis de datos para una cadena de Retail. El objetivo principal fue transformar una base de datos masiva y desordenada en una herramienta visual de alta precisión que permita optimizar la toma de decisiones comerciales.
 
-🚀 Desafíos y Soluciones Técnicas
+Desafíos y Soluciones Técnicas
 1. Procesamiento de "Big Data" con Python
 El primer gran reto fue manejar un volumen de datos que superaba las capacidades estándar de carga .
 
